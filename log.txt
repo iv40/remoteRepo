@@ -1,0 +1,11 @@
+commit fe9143879fce3fb0f6de9a91baf9f00e3750ff25 (HEAD -> logging, origin/master, master)
+Author: Ivan Ned <30935441+iv40@users.noreply.github.com>
+Date:   Wed Apr 4 17:22:32 2018 +0200
+
+    modify l1.txt
+
+commit 1df5c49a3c1300fb55bb0c13f08d683a536c6101
+Author: Ivan Ned <30935441+iv40@users.noreply.github.com>
+Date:   Wed Apr 4 17:22:08 2018 +0200
+
+    Initial commit
